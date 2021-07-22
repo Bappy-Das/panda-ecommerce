@@ -1,0 +1,11 @@
+.banner-bg{
+background-color: #fceae8;
+}
+.subscribe{
+    background-color: #FFF2F1;
+    border-radius: 5px;
+    height: 300px;
+}
+.sub-item{
+    width: 40%;
+}
